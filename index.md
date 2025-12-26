@@ -2,6 +2,7 @@
 ## A New Way to Build Context for Intelligent Agents
 
 This post introduces a **battle-tested way to construct context for AI agents**, originating from an open-source GitHub project: **infiAgent**.
+👉 https://github.com/ChenglinPoly/infiAgent
 
 The core idea is simple:  
 > **stop feeding agents their entire action history, and give them a compact state instead.**
